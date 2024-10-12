@@ -32,7 +32,7 @@ function ItemBar({ toggleFilters, filtersVisible }) {
                         Recommended
                     </span>
                     <div className="w-4 h-4 transform rotate-90">
-                        <div className="w-4 h-4 bg-gray-500"></div>
+                        <img src="https://cdn-icons-png.flaticon.com/512/32/32213.png" />
                     </div>
                 </div>
 

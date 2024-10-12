@@ -87,7 +87,7 @@ const Footer = () => {
                 {/* <!-- Contact Info --> */}
                 <div className="absolute left-[888px] top-[237px] flex items-center gap-[5px]">
                     <div className="w-6 h-6 rounded-3xl">
-                        <div className="w-[45.60px] h-6 absolute"></div>
+                        <img className="mt-1 rounded-full " src="https://cdn.britannica.com/79/4479-050-6EF87027/flag-Stars-and-Stripes-May-1-1795.jpg"/>
                     </div>
                     <div className="text-white text-base font-bold tracking-wide">USD</div>
                 </div>
